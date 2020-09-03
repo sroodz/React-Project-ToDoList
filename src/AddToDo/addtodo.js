@@ -1,12 +1,12 @@
 import React from 'react';
 
 
-class Todolist extends React.Component{
+class Addtodo extends React.Component{
 
     render() {
         return(
             <div>
-                hello from todolist
+                hello from addtodo
             </div>
         )
     }
@@ -14,4 +14,4 @@ class Todolist extends React.Component{
     
 
 
-export default Todolist;
+export default Addtodo;

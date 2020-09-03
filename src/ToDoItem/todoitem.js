@@ -1,11 +1,12 @@
 import React from 'react';
 
-class todoitem extends React.Component{
+
+class Todoitem extends React.Component{
 
     render() {
         return(
             <div>
-                
+                hello from todoitem
             </div>
         )
     }
@@ -13,4 +14,4 @@ class todoitem extends React.Component{
     
 
 
-export default todoitem;
+export default Todoitem;

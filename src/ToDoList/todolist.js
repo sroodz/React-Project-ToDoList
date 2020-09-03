@@ -1,8 +1,7 @@
 import React from 'react';
 
-import './App.css';
 
-class App extends React.Component{
+class todolist extends React.Component{
 
     render() {
         return(

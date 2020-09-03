@@ -13,4 +13,4 @@ class todoitem extends React.Component{
     
 
 
-export default App;
+export default todoitem;
